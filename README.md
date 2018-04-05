@@ -1,5 +1,4 @@
-# Team introduction application
-
+# Team introduction application #
  ## Functions ##
  * Add user
  * Delete user
@@ -11,6 +10,8 @@
  `pod install`
  
   ## Screenshots ##
+  
+  (Small tip: to back to the previous view controller, just swipe down)
   
 
  
