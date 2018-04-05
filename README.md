@@ -13,5 +13,15 @@
   
   (Small tip: to back to the previous view controller, just swipe down)
   
+Main screen   
+<img src="https://github.com/Odselmaa/team_app/blob/master/screenshots/s2.png" height="400px">
+</br>
 
- 
+Screen for current user
+
+<img src="https://github.com/Odselmaa/team_app/blob/master/screenshots/s1.png" height="400px">
+</br>
+
+Screen for adding user
+
+<img src="https://github.com/Odselmaa/team_app/blob/master/screenshots/s3.png" height="400px">
