@@ -25,3 +25,11 @@ Screen for current user
 Screen for adding user
 
 <img src="https://github.com/Odselmaa/team_app/blob/master/screenshots/s3.png" height="400px">
+</br>
+
+Screen for deleting user
+
+<img src="https://github.com/Odselmaa/team_app/blob/master/screenshots/s4.png" height="400px">
+
+
+
